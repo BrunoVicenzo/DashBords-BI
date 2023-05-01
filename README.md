@@ -1,2 +1,17 @@
 # DashBords-BI
 Dashbords de powerBI
+
+#Descriçao de projetos
+
+1- Nome: 3ds Games 
+desc: tem como base listar todos os jogos na plataforma 3ds com quantidade de venda, genero e Criadora
+
+2- Nome: Google PlayStore 
+desc: tem como base listar todos os Aplicativos, pore genero e nome, mostrando seu espaço de armazenamento necessario, visualizaçoes e versao android necessarias ou possiveis
+
+3- Nome: PS4 Games sales
+desc: tem como base listar todos os jogos na plataforma PS4 com quantidade de venda, genero, Criadora e localidade de vendas no mundo/pais
+
+4- Nome: Gerentes ganho
+desc: tem como base listar todos os Gerentes de um banco, soma de produtos vendidos sozinhos, soma do valor de vendas no ano, e soma por gerente 
+
