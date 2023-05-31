@@ -15,3 +15,5 @@ desc: tem como base listar todos os jogos na plataforma PS4 com quantidade de ve
 4- Nome: Gerentes ganho
 desc: tem como base listar todos os Gerentes de um banco, soma de produtos vendidos sozinhos, soma do valor de vendas no ano, e soma por gerente 
 
+5- Nome: Populaçao realizadas nas prisoes da US
+desc: tem como base listar os detentos presos por ano, mes e cidadae dos EUA
